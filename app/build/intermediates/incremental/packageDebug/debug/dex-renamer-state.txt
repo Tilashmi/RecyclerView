@@ -1,0 +1,4 @@
+#Wed Mar 17 19:15:50 NPT 2021
+base.0=E\:\\RecyclerView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
